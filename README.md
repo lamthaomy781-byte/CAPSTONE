@@ -29,23 +29,6 @@ The project is built on the **Online Retail Dataset** with the purpose of:
 
 ---
 
-## 🗂️ Project Structure
-
-CAPSTONE/
-├── data/
-│ ├── online_retail.csv # Raw dataset
-│ └── rfm_final.csv # Final RFM dataset for Power BI
-│
-├── notebooks/
-│ └── CAPSTONE.ipynb # Main analysis notebook (RFM + KNN)
-│
-├── powerbi/
-│ └── rfm_dashboard.pbix # Power BI dashboard
-│
-├── README.md # Project documentation
-
----
-
 ## 🔍 Methodology
 
 ### Data Cleaning and Preparation
